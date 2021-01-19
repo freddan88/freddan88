@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][linkedin]
